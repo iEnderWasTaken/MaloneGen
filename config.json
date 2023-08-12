@@ -1,7 +1,7 @@
 {
-    "token": "MTEzOTYzNTE1NTc4MzQwMTU3Mw.GkTDn6.YzzCscTHt1-1IAMt595T7TB7ypr9x3rks3LCsA",
+    "token": "bottoken",
     "prefix": "gen!",
-    "genChannel": "1139643673794072597",
+    "genChannel": "genlenecekkanal",
     "genCooldown": "10000",
     "color": {
         "green": "0x57F287",
