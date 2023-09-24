@@ -1,7 +1,7 @@
 {
     "token": "bottoken",
     "prefix": "gen!",
-    "genChannel": "genlenecekkanal",
+    "genChannel": "genlenecekkanalidsi",
     "genCooldown": "10000",
     "color": {
         "green": "0x57F287",
